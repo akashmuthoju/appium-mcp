@@ -1,3 +1,9 @@
+## [1.1.15](https://github.com/appium/appium-mcp/compare/v1.1.14...v1.1.15) (2025-11-21)
+
+### Bug Fixes
+
+* mcp protocol schema version to latest ([#46](https://github.com/appium/appium-mcp/issues/46)) ([c505909](https://github.com/appium/appium-mcp/commit/c50590906e7e6bb2209701c7b85cc53fbe7c975c))
+
 ## [1.1.14](https://github.com/appium/appium-mcp/compare/v1.1.13...v1.1.14) (2025-11-21)
 
 ### Bug Fixes
