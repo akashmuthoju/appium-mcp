@@ -1,3 +1,9 @@
+## [1.1.17](https://github.com/appium/appium-mcp/compare/v1.1.16...v1.1.17) (2025-11-21)
+
+### Miscellaneous Chores
+
+* Update Appium MCP configuration in README ([#42](https://github.com/appium/appium-mcp/issues/42)) ([a7e2bcd](https://github.com/appium/appium-mcp/commit/a7e2bcdf482dfbb3abb1531138947388b08acf43))
+
 ## [1.1.16](https://github.com/appium/appium-mcp/compare/v1.1.15...v1.1.16) (2025-11-21)
 
 ### Bug Fixes
