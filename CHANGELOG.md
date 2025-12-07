@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/appium/appium-mcp/compare/v1.3.0...v1.4.0) (2025-12-07)
+
+### Features
+
+* **interactions:** add long press tool for press and hold gestures ([#53](https://github.com/appium/appium-mcp/issues/53)) ([ef6092e](https://github.com/appium/appium-mcp/commit/ef6092e0e100dd0535f1d6bf371ad794969e863d))
+
 ## [1.3.0](https://github.com/appium/appium-mcp/compare/v1.2.0...v1.3.0) (2025-12-05)
 
 ### Features
