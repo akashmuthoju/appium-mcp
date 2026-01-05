@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           submodules: recursive
           fetch-depth: 0 # Fetch all tags for version detection
@@ -23,7 +23,7 @@ jobs:
         run: |
           chmod +x scripts/setup-submodules-sparse.sh
           ./scripts/setup-submodules-sparse.sh
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
           node-version: lts/*
           check-latest: true
@@ -43,9 +43,9 @@ jobs:
           echo "Updated server.json version to $VERSION"
 
       - name: Setup Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v6
         with:
-          go-version: '1.21'
+          go-version: '1.25'
 
       - name: Build MCP Publisher from source
         run: |

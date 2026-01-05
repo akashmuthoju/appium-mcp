@@ -1,3 +1,15 @@
+## [1.7.0](https://github.com/appium/appium-mcp/compare/v1.6.1...v1.7.0) (2026-01-05)
+
+### Features
+
+* Add interactive UI experiences to mcp ([#75](https://github.com/appium/appium-mcp/issues/75)) ([b0b49c7](https://github.com/appium/appium-mcp/commit/b0b49c7deec5eebaca7ac50060844cedcbf1d8b5))
+
+## [1.6.1](https://github.com/appium/appium-mcp/compare/v1.6.0...v1.6.1) (2026-01-05)
+
+### Bug Fixes
+
+* Update Go version in publish workflow ([#74](https://github.com/appium/appium-mcp/issues/74)) ([580be03](https://github.com/appium/appium-mcp/commit/580be03b59aa4ce8b47f169cfbeb8ac8dd310f35))
+
 ## [1.6.0](https://github.com/appium/appium-mcp/compare/v1.5.0...v1.6.0) (2025-12-22)
 
 ### Features
