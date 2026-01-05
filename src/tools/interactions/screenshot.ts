@@ -2,7 +2,7 @@ import { FastMCP } from 'fastmcp/dist/FastMCP.js';
 import { getDriver } from '../../session-store.js';
 import { writeFile, mkdir } from 'fs/promises';
 import { join, isAbsolute } from 'path';
-import * as os from 'os';
+import * as os from 'node:os';
 
 /**
  * Resolves the screenshot directory path.
