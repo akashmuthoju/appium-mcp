@@ -7,7 +7,7 @@ import {
   jest,
 } from '@jest/globals';
 import { join, isAbsolute } from 'path';
-import * as os from 'os';
+import * as os from 'node:os';
 
 /**
  * Local implementation of resolveScreenshotDir for testing.
